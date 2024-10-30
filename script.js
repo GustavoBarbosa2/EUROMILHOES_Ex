@@ -1,4 +1,4 @@
-const api = "http://localhost:3000/";
+const api = "/";
 
 async function gerarChave() {
     try {
